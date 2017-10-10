@@ -1,0 +1,19 @@
+incidente POST
+{
+	"incidente" : {
+	"cuadrilla": "T",
+    "tipo": {
+        "grupo": "T",
+        "detalle": "T"
+    },
+    "ubicacion": {
+        "lat": -12.099733,
+        "lon": -76.994825
+    },
+    "ingeniero": 123456789,
+    "estado": "T",
+    "multa": 0,
+    "detalle": "T"
+		
+	}
+}
